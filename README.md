@@ -1,4 +1,5 @@
-# Evaluation--on--factors--affecting--Americans-participation--in--contact--tracing--and--quarantine
+# Evaluation on factors affecting Americans’ participation in contact tracing and quarantine 
+
 ## Introduction
 Recently, the new variant of covid-19, Omicron, has triggered new tension around the world. It again aroused our cautiousness and alert in this winter. To better inhibit epidemic, we need the engagement of the whole society. The question is to what extent the public is willing to follow the rules? And how can we improve their cooperation with the government? 
 
@@ -30,7 +31,6 @@ In the interaction model (model 3), we find that the p-value for the party*relig
 Since we have centered all of our continuous variables, the intercept term in model 3 tells us the expected likelihood of contact tracing engagement score (1 denotes very likely and 12 very unlikely) for the "average" person (i.e., a person who is self-identified democrat, a person who DOES NOT engage in religious activities, a person who DOES NOT use social media, a person who has medium knowledge of contact tracing programs and a person who has average trust in public health organizations and federal government.)
 
 To interpret the interaction effect of party affiliation and religious engagement, on average, people’s willingness in engaging contact tracing programs is 0.282 unit higher for those who do not actively engage in religious practice than who DO. However, this disparity is not uniform across party affiliation. A self-identified republican who DOES NOT engage in religious practice is 1.194 less likely to engage in contact tracing program than democrat who DOES NOT engage in religious practice. A self-identified republican who DOES engage in religious practice is 0.282 more likely to engage in contact tracing program than democrat who DOES NOT engage in religious practice. 
-
 
 ## Conclusion
 We started by examining initial models of quarantine and contact tracing, but only retained the second one because the former model lacks credibility in interpretations. Interestingly to say, **people’s attitudes towards Covid corporation especially quarantine are quite random,** with only some clues indicating that people who attended religious services within a month, trust federal government, and is self-identified as democrat might more likely to comply with quarantine requirements.
