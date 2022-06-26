@@ -1,5 +1,8 @@
 # Evaluation on factors affecting Americans’ participation in contact tracing and quarantine 
 
+This is a mini-report of the analysis, please refer to the **full report** :point_right: [here](https://github.com/Yingtong-Z/Evaluation--on--factors--affecting--Americans-participation--in--contact--tracing--and--quarantine/blob/457999c05cbefc26e5291d0f40cfab8108006135/Full%20Report.pdf) and **R script**  :point_right: [here](https://github.com/Yingtong-Z/Evaluation--on--factors--affecting--Americans-participation--in--contact--tracing--and--quarantine/blob/457999c05cbefc26e5291d0f40cfab8108006135/Report%20R%20Script.R) if interested 
+
+
 ## Introduction
 Recently, the new variant of covid-19, Omicron, has triggered new tension around the world. It again aroused our cautiousness and alert in this winter. To better inhibit epidemic, we need the engagement of the whole society. The question is to what extent the public is willing to follow the rules? And how can we improve their cooperation with the government? 
 
